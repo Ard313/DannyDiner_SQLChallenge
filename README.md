@@ -68,4 +68,4 @@ For detailed SQL queries and analysis results, please refer to the repository.
 
 ---
 
-By [Your Name]
+By Ardra
