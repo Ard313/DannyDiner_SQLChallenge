@@ -46,7 +46,8 @@ The analysis aims to answer the following questions using SQL queries:
 7. **Last Purchase Before Joining**: Determine the item purchased just before a customer joins the loyalty program.
 8. **Pre-Membership Spending**: Calculate the total items and amount spent for each member before joining.
 9. **Points Calculation**: Calculate loyalty points based on spending, considering a multiplier for sushi purchases.
-10. **Bonus Points**: Calculate bonus points earned by customers A and B during January after joining the program.
+10. **Join All the Things**
+11. **Rank All the Things**
 
 
 ### SQL Queries
