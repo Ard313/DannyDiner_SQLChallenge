@@ -1,7 +1,7 @@
 # Danny's Diner SQL Challenge
 
+<img width="716" alt="ho" src="https://github.com/Ard313/DannyDiner_SQLChallenge/assets/122507060/5b7234b8-dee9-4633-804f-d9d5e44bb972">
 
-<img width="715" alt="frnt" src="https://github.com/Ard313/DannyDiner_SQLChallenge/assets/122507060/0ba7dc7a-7895-4770-b390-30feb8b23dc5">
 
 ### Contents
 1. Introduction
