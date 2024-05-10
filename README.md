@@ -46,8 +46,8 @@ The analysis aims to answer the following questions using SQL queries:
 7. **Last Purchase Before Joining**: Determine the item purchased just before a customer joins the loyalty program.
 8. **Pre-Membership Spending**: Calculate the total items and amount spent for each member before joining.
 9. **Points Calculation**: Calculate loyalty points based on spending, considering a multiplier for sushi purchases.
-10. **Join All the Things**
-11. **Rank All the Things**
+10. ** Join All the Things**
+11. ** Rank All the Things**
 
 
 ### SQL Queries
@@ -65,7 +65,7 @@ Users can clone the repository and execute SQL queries against the provided data
 ## Conclusion
 Through SQL analysis of Danny's Diner data, valuable insights are gained regarding customer spending, visit patterns, and menu preferences. These insights enable Danny to tailor his offerings, enhance customer loyalty programs, and ultimately improve the overall dining experience at his restaurant.
 
-For detailed SQL queries and analysis results, please refer to the repository.
+For detailed SQL queries and analysis results, please refer to the repository and https://8weeksqlchallenge.com/case-study-1/
 
 ---
 
